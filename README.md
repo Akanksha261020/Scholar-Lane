@@ -1,34 +1,28 @@
-Welcome to the College Website of Scholar Lane! This project is designed to provide a comprehensive online platform for a college, featuring information about courses, departments, lecturers, Reviews, Contact page and other essential services. This README will guide you through the setup, structure, and usage of the website.
+# Scholar Lane
 
-Table of Contents:
+## Project Description
 
-Home
-About
-Courses
-Lecturers
-Reviews
-Contact
+The Scholar Lane College Website is a comprehensive online platform designed to provide detailed information and essential services for a college. The website is built using HTML5, CSS3, JavaScript, and Swiper.js, ensuring a dynamic and user-friendly experience.
 
+## Features
 
-Home Page: Overview of the college, including announcements and featured news.
+- **HTML5**: Structured content with semantic HTML5 elements.
+- **CSS3**: Styled the application using modern CSS3 techniques.
+- **JavaScript**: Implemented interactivity and functionality with JavaScript.
+- **Swiper.js**: Integrated Swiper.js for creating responsive and touch-friendly sliders.
 
-About: Information on various academic info. 
+## Tags
 
-Courses: Detailed descriptions of courses offered, including lessons and duration.
+- HTML5
+- CSS3
+- JavaScript
+- Swiper.js
 
-Lecturers: Profiles of faculty members with their names.
+## Category
 
-Student Reviews: Info regarding alumni and their reviews.
+Web App
 
-Contact Page: Contact information and inquiry form.
+## Links
 
-Footer: Location and Branches mentioned.
-
-Tech Stack
-
-Frontend:
-
-HTML5
-CSS3
-JavaScript 
-Swiper.js   
+- **GitHub Repository**: [Scholar Lane on GitHub](https://github.com/Akanksha261020/Scholar-Lane)
+- **Live Web App**: [Scholar Lane Live Demo](https://scholar-lane.vercel.app/)
